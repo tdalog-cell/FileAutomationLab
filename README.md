@@ -14,4 +14,4 @@ Run the automation:
 ./FileAutomation.ps1
 ```
 
-The `.gitignore` excludes temporary `.tmp` files and the `logs/` folder.
+The `.gitignore` excludes temporary `.tmp` files, the `logs/` folder, and generated organized output. The tracked inbox samples remain available to run the script again after cloning.
